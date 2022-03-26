@@ -4,9 +4,7 @@ html {
   box-sizing: border-box;
   padding: 10px;
   padding-bottom: 15px;
-  border-bottom-style: solid;
   margin-bottom: 20px;
-  margin-top: 10px;
   margin-right: 5px;
   margin-left: 5px;
 }
@@ -27,7 +25,6 @@ body {
 
 article {
   padding-bottom: 4px;
-  margin-bottom: inherit;
 }
 
 article header {
@@ -60,4 +57,9 @@ header > p {
 blockquote {
   color: #555;
   font-size: 1.125rem;
+}
+
+article ol {
+  padding-right: 40px;
+  padding-left: 1em;
 }
