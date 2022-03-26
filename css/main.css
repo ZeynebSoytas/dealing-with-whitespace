@@ -1,8 +1,9 @@
 html {
+  color: #222;
   font-family: "Crimson Text", serif;
   box-sizing: border-box;
-  padding: 5px;
-  margin: 5px;
+  padding: 10px;
+  margin: 10px;
 }
 
 *, *::before, *::after {
@@ -11,8 +12,12 @@ html {
 
 body {
   font-family: "Crimson Text", serif;
+  margin: 0;
   line-height: 1.3;
-  margin: inherit;
+  border-width: 2px;
+  border-bottom: solid;
+  border-color: #999;
+  border-bottom-width: 1px;
 }
 
 article header {
@@ -35,11 +40,6 @@ article header p {
   border-top-width: 0;
 }
 
-article p {
-  padding-top: 1px;
-  color: #222;
-}
-
 header > p {
   font-size: 1.125rem;
   font-style: italic;
@@ -47,7 +47,7 @@ header > p {
   font-weight: normal;
 }
 
-blockquote > .quote {
+blockquote {
   color: #555;
   font-size: 1.125rem;
 }
