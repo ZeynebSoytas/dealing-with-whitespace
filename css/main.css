@@ -18,7 +18,7 @@ header {
   padding-left: 1rem;
   padding-right: 1rem;
   border size: 2px;
-  border-style: solid;
+  border-bottom: solid black;
 }
 
 article h1 {
