@@ -6,3 +6,9 @@ html {
 *, *::before, *::after {
   box-sizing: inherit;
 }
+
+body {
+  font: font-family: "Crimson Pro", serif;
+  font-style: italic;
+
+}
