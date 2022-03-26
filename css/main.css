@@ -3,6 +3,7 @@ html {
   font-family: "Crimson Text", serif;
   box-sizing: border-box;
   line-height: 1.3;
+
 }
 
 *, *::before, *::after {
@@ -15,8 +16,6 @@ body {
 }
 
 header {
-  padding-left: 1rem;
-  padding-right: 1rem;
   border size: 2px;
   border-bottom: solid black;
 }
@@ -25,6 +24,8 @@ article h1 {
   font-size: 1.5rem;
   font-weight: normal;
   margin: 0;
+  padding: 20px;
+  margin: 200px;
 }
 
 header > p {
@@ -32,11 +33,6 @@ header > p {
   font-style: italic;
   font-family: "Crimson Text", serif;
   font-weight: normal;
-}
-
-div {
-  margin: auto;
-  padding: 1rem;
 }
 
 blockquote {
