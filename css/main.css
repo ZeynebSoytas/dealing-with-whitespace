@@ -1,8 +1,8 @@
 html {
   font-family: "Crimson Text", serif;
   box-sizing: border-box;
-  padding: none;
-  margin: none;
+  padding: 5px;
+  margin: 5px;
 }
 
 *, *::before, *::after {
