@@ -12,3 +12,14 @@ body {
   font: font-family: "Crimson Pro", serif;
 
 }
+
+header,footer {
+  font-size: 1.5rem;
+}
+
+h1, h2 {
+  font-size: 1.5rem;
+  font-family: "Crimson", serif;
+  font-weight: lighter;
+  color: #222;
+}
