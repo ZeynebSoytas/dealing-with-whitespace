@@ -63,3 +63,8 @@ article ol {
   padding-right: 40px;
   padding-left: 1em;
 }
+
+article p {
+  margin-top: 15px;
+  margin-bottom: 15px;
+}
