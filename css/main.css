@@ -17,7 +17,8 @@ body {
 
 header {
   border size: 1px;
-  border-bottom: solid black;
+  border-bottom: solid;
+  border-color: #999
 }
 
 article h1 {
