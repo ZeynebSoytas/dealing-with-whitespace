@@ -1,5 +1,4 @@
 html {
-  color: #222;
   font-family: "Crimson Text", serif;
   box-sizing: border-box;
   padding: 10px;
@@ -21,7 +20,7 @@ article header {
   border-bottom: solid;
   border-color: #999;
   border-bottom-width: 1px;
-  margin-top: 0px;
+  margin-top: 0;
 }
 
 article h1 {
@@ -31,10 +30,14 @@ article h1 {
 }
 
 article header p {
-   border-top-style: solid;
-   margin-top: 0px;
-   border-top-width: 0px;
- }
+  border-top-style: solid;
+  margin-top: 0;
+  border-top-width: 0;
+}
+article p {
+  padding-top: 05px;
+  color: #222;
+}
 
 header > p {
   font-size: 1.125rem;
@@ -43,7 +46,7 @@ header > p {
   font-weight: normal;
 }
 
-blockquote {
+blockquote > .quote {
   color: #555;
   font-size: 1.125rem;
 }
