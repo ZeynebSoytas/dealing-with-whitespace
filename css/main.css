@@ -54,7 +54,7 @@ header > p {
   font-weight: normal;
 }
 
-.blockquote {
+blockquote {
   color: #555;
   font-size: 1.125rem;
 }
@@ -67,4 +67,8 @@ article ol {
 article p {
   margin-top: 15px;
   margin-bottom: 15px;
+}
+
+.quote {
+  margin-right: 20px;
 }
