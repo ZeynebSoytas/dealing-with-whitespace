@@ -41,3 +41,9 @@ blockquote {
   color: #555;
   font-size: 1.125rem;
 }
+
+element {
+	border-top-style: solid;
+	margin-top: 0px;
+	border-top-width: 0px;
+}
