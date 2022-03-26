@@ -27,6 +27,7 @@ body {
 
 article {
   padding-bottom: 4px;
+  margin-bottom: inherit;
 }
 
 article header {
