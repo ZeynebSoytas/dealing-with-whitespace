@@ -16,7 +16,7 @@ body {
 }
 
 header {
-  border size: 2px;
+  border size: 0.5px;
   border-bottom: solid black;
 }
 
