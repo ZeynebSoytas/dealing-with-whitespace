@@ -23,7 +23,7 @@ h1 {
   color: #222;
 }
 
-h2 {
+header > p {
   font-size: 1.125rem;
   font-style: italic;
   font-family: 'Crimson' ,serif;
