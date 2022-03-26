@@ -35,7 +35,7 @@ header > p {
   font-weight: normal;
 }
 
-.quote {
+blockquote {
   color: #555;
   font-size: 1.125rem;
 }
