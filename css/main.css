@@ -19,7 +19,7 @@ body {
 header {
   border-width: 2px;
   border-bottom: solid;
-  border-color: #999
+  border-color: #999;
 }
 
 article h1 {
@@ -35,6 +35,7 @@ header > p {
   font-weight: normal;
 }
 
-blockquote {
+.quote {
   color: #555;
+  font-size: 1.125rem;
 }
