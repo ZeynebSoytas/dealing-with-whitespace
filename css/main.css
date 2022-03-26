@@ -34,8 +34,9 @@ article header p {
   margin-top: 0;
   border-top-width: 0;
 }
+
 article p {
-  padding-top: 0.5px;
+  padding-top: 1px;
   color: #222;
 }
 
