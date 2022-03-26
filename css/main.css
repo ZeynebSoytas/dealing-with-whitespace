@@ -20,6 +20,8 @@ header {
   border-width: 2px;
   border-bottom: solid;
   border-color: #999;
+  border-bottom-width: 1px;
+  margin-top: 0px;
 }
 
 article h1 {
