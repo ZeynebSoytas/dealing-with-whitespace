@@ -3,13 +3,12 @@ html {
   font-family: "Crimson Text", serif;
   box-sizing: border-box;
   padding: 10px;
-  padding-bottom: 15px;
+  padding-bottom: 20px;
   border-bottom-style: solid;
   margin-bottom: 20px;
   margin-top: 10px;
   margin-right: 5px;
   margin-left: 5px;
-  padding-bottom: 15px;
 }
 
 *, *::before, *::after {
