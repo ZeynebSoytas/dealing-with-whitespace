@@ -86,4 +86,5 @@ article > p:first-child {
   border-top: solid;
   border-color: #999;
   border-top-width: 1px;
+  margin-top: 30px;
 }
