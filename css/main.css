@@ -8,7 +8,6 @@ html {
   margin-bottom: 50px;
   margin-right: 5px;
   margin-left: 5px;
-  transform: scale(-.1px);
 }
 
 *, *::before, *::after {
@@ -47,7 +46,7 @@ article header p {
 }
 
 header > p {
-  font-size: 1.125rem;
+  font-size: 1.3rem;
   font-style: italic;
   font-family: "Crimson Text", serif;
   font-weight: normal;
