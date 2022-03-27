@@ -90,7 +90,7 @@ article > p:first-child {
 }
 
 .foot {
-  display : table-row;
-  vertical-align : bottom;
-  height : 1px;
+  display: table-row;
+  vertical-align: bottom;
+  height: 1px;
 }
