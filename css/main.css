@@ -8,6 +8,7 @@ html {
   margin-bottom: 50px;
   margin-right: 5px;
   margin-left: 5px;
+  transform: scale(-.1px);
 }
 
 *, *::before, *::after {
