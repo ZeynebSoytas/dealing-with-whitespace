@@ -88,3 +88,9 @@ article > p:first-child {
   border-top-width: 1px;
   margin-top: 30px;
 }
+
+.foot {
+  display : table-row;
+  vertical-align : bottom;
+  height : 1px;
+}
