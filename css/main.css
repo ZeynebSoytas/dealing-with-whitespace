@@ -71,7 +71,6 @@ article p {
 }
 
 .quote {
-  margin-left: .5px;
   color: #999;
-  margin-left: -.5em;
+  margin-left: -.3em;
 }
