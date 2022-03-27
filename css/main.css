@@ -67,9 +67,9 @@ article ol {
 article p {
   margin-top: 15px;
   margin-bottom: 15px;
+  text-align: left;
 }
 
 .quote {
-  margin-right: 20px;
-  margin-left: 40px;
+  margin-left: .5px;
 }
