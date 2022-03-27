@@ -1,4 +1,5 @@
 html {
+  width: 320px;
   color: #222;
   font-family: "Crimson Text", serif;
   box-sizing: border-box;
@@ -82,7 +83,7 @@ article > p:last-child {
   border-color: #999;
   border-bottom-width: 1px;
   padding-bottom: 20px;
-  margin-bottom: 3px;
+  margin-bottom: 5px;
 }
 
 article > p:first-child {
