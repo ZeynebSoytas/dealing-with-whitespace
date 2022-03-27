@@ -63,7 +63,7 @@ article ol {
 }
 
 article p {
-  margin-top: 20px;
+  margin-top: 30px;
   margin-bottom: 20px;
 }
 
@@ -87,10 +87,4 @@ article > p:first-child {
   border-color: #999;
   border-top-width: 1px;
   margin-top: 30px;
-}
-
-.foot {
-  display: table-row;
-  vertical-align: bottom;
-  height: 1px;
 }
