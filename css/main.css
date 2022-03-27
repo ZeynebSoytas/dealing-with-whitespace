@@ -74,4 +74,6 @@ article p {
 .quote {
   color: #999;
   margin-left: -.3em;
+  margin-top: 20px;
+  margin-bottom: 12px;
 }
