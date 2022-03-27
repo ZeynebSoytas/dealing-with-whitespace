@@ -81,3 +81,9 @@ article > p:last-child {
   padding-bottom: 20px;
   margin-bottom: 3px;
 }
+
+article > p:first-child {
+  border-top: solid;
+  border-color: #999;
+  border-top-width: 1px;
+}
